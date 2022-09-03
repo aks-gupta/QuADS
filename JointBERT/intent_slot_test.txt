@@ -1,0 +1,12 @@
+<crop_information> -> when is the best [time:B-crop_growth_time] to [grow:B-crop_growth_time] [mangoes:B-crop_name]
+<agricultural_machinery> -> what is the [price:B-machinery_price] of [tractors:B-machinery_type]
+<animal_husbandry> -> what [diseases:B-animal_diseases] do [pigs:B-animal_type] get
+<agricultural_processes> -> what are the [stages:B-agricultural_process_requirement] of [irrigation:B-agricultural_process_type]
+<agrochemicals> -> why too many [fertilizers:B-agrochemical_type] are [bad:B-agrochemical_disadv] for plants
+<crop_information> -> what is the [selling:B-crop_selling_price] [price:B-crop_name] of [mangoes:B-crop_name] in India
+<alternative_farming_methods> -> what is [organic:B-method_type] farming?
+<agricultural_machinery> -> what is the [use:B-machinery_agricultural_process] of [plough:B-machinery_type]
+<animal_husbandry> -> which [pig:B-animal_type] [gives:B-animal_byproduct] the best [pork:B-animal_byproduct]
+<agricultural_processes> -> is [black:B-land_soil_type] [soil:B-land_soil_type] [good:B-agricultural_process_adv] for [growing:B-agriculture_process_duration] crops?
+<agrochemicals> -> what are the different types of [fertilizers?:B-agrochemical_type]
+<crop_information> -> does [ginger:B-crop_name] [grow:B-crop_growth_time] well in summer?

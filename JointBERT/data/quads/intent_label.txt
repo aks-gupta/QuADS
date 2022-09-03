@@ -1,0 +1,7 @@
+UNK
+crop_information 
+agricultural_processes
+agricultural_machinery
+agrochemicals
+animal_husbandry
+alternative_farming_methods

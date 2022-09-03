@@ -1,0 +1,1 @@
+<crop_information> -> What is the best [fertilizer:B-agrochemical_type] for [mangoes:B-crop_name]
