@@ -5,7 +5,9 @@ This dataset has queries about agriculture in 6 intents and further subintents t
 
 Intents - [agricultural_machinery, agricultural_processes, agrochemicals, alternative_farming_methods, animal_husbandry, crop_information] 
 
-Dataset available at https://www.kaggle.com/datasets/poojarajesh12/quads
+Dataset available at: https://www.kaggle.com/dsv/4033305
+
+Paper: https://ieeexplore.ieee.org/document/10113115
 
 ### An implementation of a speech-to-speech model using google APIs and the Joint Model
 
